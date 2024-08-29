@@ -1,5 +1,3 @@
-# NAME:GANJI MUNI MADHURI
-# REFERENCE NUMBER:212223230060
 ## 2a_Stop_and_Wait_Protocol
 ## AIM 
 To write a python program to perform stop and wait protocol
@@ -11,6 +9,8 @@ To write a python program to perform stop and wait protocol
 5. If your frames reach the server it will send ACK signal to client
 6. Stop the Program
 ## PROGRAM
+NAME:GANJI MUNI MADHURI
+REFERENCE NUMBER:212223230060
 # client.py
 ```
 import socket
